@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FlorenciaFerr
+- 👋 Hi, I’m LaFerri
 - 👀 I’m interested in graphic design and software development
 - 🌱 I’m currently learning digital graphic design and trying to integrate it to all my development knowledge
 - 💞️ I’m looking to collaborate on web development
